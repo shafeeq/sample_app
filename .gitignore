@@ -13,3 +13,11 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+#Ignore other unneeded file
+doc/
+*.swp
+*~
+.project
+.idea
+
