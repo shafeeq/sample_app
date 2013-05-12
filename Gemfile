@@ -28,6 +28,7 @@ group :test do
   gem 'libnotify', '0.5.9'
   gem 'guard-spork', '1.2.0'
   gem 'spork', '0.9.2'
+  gem 'factory_girl_rails' , '4.1.0'
 end
 
 group :production do
